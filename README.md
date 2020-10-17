@@ -6,8 +6,8 @@
 as long as God is with me, One of my most **important goals** is to reach a **professional level in Embedded Systems** ,which makes 
 me able to **link it** with the **Internet of Things and Data Science** ,One day I will do it with the grace of God and the prayers of parents.
 
--  I’m currently learning computer science 👨‍💻.
--  I’m Interested in embedded systems 🤖.
+-  **I’m currently learning computer science** 👨‍💻.
+-  **I’m Interested in embedded systems** 🤖.
 - **My skills** 📈:
 >* 1- C (Programming Language).
 >* 2- Embedded c.
